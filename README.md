@@ -30,7 +30,7 @@
 - 🤖 **NLP & ML**: Cross-institutional research collaborations
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChooseMath&show_icons=true&theme=tokyonight&hide=contribs)
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning techniques
@@ -44,9 +44,6 @@
 - 🏗️ Scalable information systems
 - 🌐 Cross-disciplinary innovation
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](你的LinkedIn链接)
-- 📧 Email: [你的邮箱前缀]@wustl.edu
 
 ---
 
